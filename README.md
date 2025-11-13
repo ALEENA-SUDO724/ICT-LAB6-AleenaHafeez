@@ -1,1 +1,0 @@
-# ICT-LAB6-AleenaHafeez
