@@ -1,0 +1,4 @@
+Git is a version control system that helps us track changes in our files and manage different versions of our 
+project.It allows us to save updates, go back to older versions, and work safely without losing progress.
+GitHub is an online platform that stores Git repositories on the cloud. It helps us share our work, 
+collaborate with others, and keep our projects backed up online.
